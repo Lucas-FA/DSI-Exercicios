@@ -1,0 +1,17 @@
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\WindowsFormsApplication1.frmCalcBasica.resources
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.csproj.GenerateResource.Cache
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.exe
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.pdb
+G:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.csprojResolveAssemblyReference.cache
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.exe
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\CalculadoraBasica.pdb
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.exe
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\CalculadoraBasica\CalculadoraBasica\bin\Debug\CalculadoraBasica.pdb
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\WindowsFormsApplication1.frmCalcBasica.resources
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\CalculadoraBasica\CalculadoraBasica\obj\x86\Debug\GenerateResource.write.1.tlog
