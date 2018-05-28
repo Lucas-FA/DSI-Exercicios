@@ -1,0 +1,11 @@
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Menu\Menu\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Menu\Menu\obj\x86\Debug\WindowsFormsApplication1.frmMenu.resources
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Menu\Menu\obj\x86\Debug\WindowsFormsApplication1.frmTeste1.resources
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Menu\Menu\obj\x86\Debug\WindowsFormsApplication1.frmTeste2.resources
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Menu\Menu\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Menu\Menu\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Menu\Menu\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Menu\Menu\bin\Debug\Menu.exe
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Menu\Menu\bin\Debug\Menu.pdb
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Menu\Menu\obj\x86\Debug\Menu.exe
+F:\Etec\Informática 2018 - ETEC ZL 2º Módulo\DS I\Menu\Menu\obj\x86\Debug\Menu.pdb
